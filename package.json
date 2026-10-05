@@ -1,0 +1,22 @@
+{
+  "name": "mindmate-ai-mental-wellness-companion",
+  "version": "1.0.0",
+  "description": "MindMate AI — AI Mental Wellness Companion Web Prototype for Hackathons",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "start": "node server/server.js"
+  },
+  "keywords": [
+    "hackathon",
+    "mental-wellness",
+    "student-companion",
+    "genai",
+    "react",
+    "fastapi",
+    "express"
+  ],
+  "author": "Hackathon Team",
+  "license": "MIT"
+}
